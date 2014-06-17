@@ -1,8 +1,9 @@
 ## Introduction
 
-Bootigniter (Codeigniter Metro UI CSS) kick starts the development process of the web development process by including Metro UI CSS into CodeIgniter. With this custom Codeigniter framework, you can make a site with an metro UI interface.
-It also includes certain libraries such as AWS and Facebook in-case you are developing applications requiring those SDKs. Now start working on your idea.
-![Code Metro](http://i1087.photobucket.com/albums/j474/Zulfindra_Juliant/comet-flatui_zpse42af84c.png)
+Bootigniter, starts the development process of the web development process by including Bootstrap and GroceryCRUD into CodeIgniter. With this custom Codeigniter framework, you can make a site so well.
+It also includes certain library of GroceryCRUD for create PHP table Creat-Read-Update-Delete. 
+Now start working on your idea.
+![Bootigniter](i1087.photobucket.com/albums/j474/Zulfindra_Juliant/bootigniter_zps364a1d89.png)
 
 ## Documentation
 
@@ -10,12 +11,11 @@ Coming Soon :)
 
 ## Instalation
 
-You can read the documentation about instalation in here >> [Readme First!! :)](https://github.com/zulfinjuliant/codemetro/wiki)
+Coming Soon :)
 
 ## Release
 
-This is currently a very active project. All changes will be latest in master file and may be have bugs, 
-it you find that bugs just contact me, okay :)
+Release version v1.0
 
 ## License
 
