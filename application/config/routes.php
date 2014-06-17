@@ -40,6 +40,7 @@
 
 $route['default_controller'] = "bootigniter";
 $route['404_override'] = '';
+$route['module_name'] = 'bootigniter';
 
 
 /* End of file routes.php */

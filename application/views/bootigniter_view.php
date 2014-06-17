@@ -49,7 +49,7 @@
 				<div class="bs-component">
 					<div class="panel panel-primary">
 						<div class="panel-heading">
-							<h3 class="panel-title">The first time? please <strong>read this</strong></h3>
+							<h3 class="panel-title">Need tutorial? please <strong>read this</strong></h3>
 						</div>
 						<div class="panel-body">
 							<p>You should start by reading the <a href="http://ellislab.com/codeigniter/user-guide/" target="_blank">Codeigniter User Guide</a>
