@@ -12,11 +12,13 @@ Coming Soon :)
 
 Coming Soon :)
 
-## Release
+## Release Notes
 
-Release version v1.0
+<ul>
+<li>release bootigniter v1.0</li>
+</ul>
 
 ## License
 
-Codeigniter License : [The License](http://codeigniter.com/user_guide/license.html) and
-Metro UI License : [MIT License](https://github.com/olton/Metro-UI-CSS/blob/master/LICENSE)
+Codeigniter License : [The License](http://codeigniter.com/user_guide/license.html) <br>
+GroceryCRUD License : [MIT License](https://github.com/zulfinjuliant/bootigniter/blob/master/license-grocery-crud.txt)
