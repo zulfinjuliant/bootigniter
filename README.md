@@ -1,7 +1,7 @@
 ## Introduction
 
 Bootigniter, starts the web development process by including Bootstrap and GroceryCRUD into CodeIgniter. With this custom Codeigniter framework, you can make a site so well.
-It also includes certain library of GroceryCRUD for create PHP table Creat-Read-Update-Delete. Now start working on your idea.
+It also includes certain library of GroceryCRUD for create PHP table Create-Read-Update-Delete. Now start working on your idea.
 ![Code Metro](http://i1087.photobucket.com/albums/j474/Zulfindra_Juliant/bootigniter_zps364a1d89.png)
 
 ## Documentation
