@@ -35,8 +35,8 @@
 						<br>And include auto PHP GroceryCRUD for create table with Create-Read-Update-Delete.
 						</p>
 						<p>
-						<a href="https://github.com/zulfinjuliant" class="btn btn-primary btn-lg"><i class="fa fa-download"></i> Download Bootigniter</a>
-						<a href="https://github.com/zulfinjuliant" class="btn btn-primary btn-lg"><i class="fa fa-github"></i> View project on GitHub</a>
+						<a href="https://github.com/zulfinjuliant/bootigniter/archive/master.zip" class="btn btn-primary btn-lg"><i class="fa fa-download"></i> Download Bootigniter</a>
+						<a href="https://github.com/zulfinjuliant/bootigniter" class="btn btn-primary btn-lg"><i class="fa fa-github"></i> View project on GitHub</a>
 						</p>
 					</div>
 				</div>
